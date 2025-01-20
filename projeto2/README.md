@@ -1,1 +1,1 @@
-
+Neste projeto utilziei o algoritmo svm (support vector machine) para treinar um modelo que seja capaz de prever se, dados atributos relacionados à saúde de diferentes pessoas, o indíviduo é ou não diabético. 
