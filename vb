@@ -1,2 +1,0 @@
-predicting_sonar_vs_mine.ipynb
-sonar_data.csv
