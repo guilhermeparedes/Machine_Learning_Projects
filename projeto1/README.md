@@ -1,7 +1,13 @@
-## Sonar vs Mina
+# Sonar vs Mina
 
-# Inrtodução 
+## Objetivo 
 
-Neste projeto utilizei o algoritmo de regressão logística para treinar o modelo e assim ele ser capaz de prever se para determinada distribuição de valores numéricos a saída é a variável categórica sonar ou mina.
+O objetivo deste projeto é determinar se dada distribuição de valores numéricos a saída é uma variável categórica sonar ou mina.
 
+## Modelo Utilizado  
 
+O Modelo treinado para este projeto foi Regressão Logística.
+
+## Métricas de Avaliação do Modelo Utilizado  
+
+Foi utilizado o método de acurácia para avaliar o modelo treinado.
