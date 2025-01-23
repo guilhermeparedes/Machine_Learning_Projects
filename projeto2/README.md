@@ -1,7 +1,5 @@
 # Diabético vs Não-Diabético 
 
-Neste projeto utilziei o algoritmo svm (support vector machine) para treinar um modelo que seja capaz de prever se, dados atributos relacionados à saúde de diferentes pessoas, o indíviduo é ou não diabético. 
-
 **Objetivo** 
 
 O objetivo deste projeto é treinar um modelo de aprendizado de máquina para que ele seja capaz de determinar com base nos dados referentes à saude de diversos indivíduos se o indivíduo é ou não é diabético. 
