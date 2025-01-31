@@ -2,7 +2,7 @@
 
 **Objetivo** 
 
-O objetivo deste projeto é treinar um modelo de aprendizado de máquina para que ele seja capaz de determinar com base nos dados contendo textos de diferentes fontes se p texto se trata de uma Fake News ou não.
+O objetivo deste projeto é treinar um modelo de aprendizado de máquina para que ele seja capaz de determinar com base nos dados contendo textos de diferentes fontes se o texto se trata de uma Fake News ou não.
 
 **Modelo Utilizado**  
 
