@@ -10,4 +10,4 @@ O Modelo treinado para este projeto foi de Regressão Logística (Support Vector
 
 **Métricas de Avaliação do Modelo Utilizado** 
 
-A métrica utilizada foi da acurácia.
+A métrica utilizada foi da .
